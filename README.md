@@ -19,7 +19,7 @@ Por que SQL:
 A linguagem SQL é mais do que um conjunto de comandos; é uma ferramenta poderosa para desbloquear insights valiosos e criar bases de dados sólidas. Cada linha de código aqui reflete meu comprometimento em enfrentar desafios de dados com elegância e eficácia.
 
 Sobre Mim:
-Sou [Seu Nome], um entusiasta de dados apaixonado por transformar informações em conhecimento. Este portfólio é uma expressão do meu amor pela manipulação de dados e pela busca incessante pela excelência na programação SQL.
+Sou Marcelo Ricardo, um entusiasta de dados apaixonado por transformar informações em conhecimento. Este portfólio é uma expressão do meu amor pela manipulação de dados e pela busca incessante pela excelência na programação SQL.
 
 Sinta-se à vontade para explorar os códigos, mergulhar nas consultas e descobrir o potencial incrível que a linguagem SQL oferece para desvendar os segredos dos dados.
 
